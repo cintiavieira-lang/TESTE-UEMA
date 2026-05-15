@@ -2,7 +2,7 @@ import { Product, Category, Extra } from './types';
 
 export const CATEGORIES: Category[] = [
   { id: 'traditional', name: 'Tradicional', icon: '🥤' },
-  { id: 'acai', name: 'Açaí', icon: '🍇' },
+  { id: 'acai', name: 'Açaí', icon: '🍧' },
   { id: 'cupuacu', name: 'Cupuaçu', icon: '🥥' },
   { id: 'farinha', name: 'Farinha Láctea', icon: '🥣' },
   { id: 'chocolate', name: 'Chocolate', icon: '🍫' },
